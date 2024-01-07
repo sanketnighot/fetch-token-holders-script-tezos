@@ -1,7 +1,6 @@
 //      -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 //     |                          This script will fetch all token Holders                                 |
 //     |         on Tezos Mainnet with their token amount and create a CSV file of that data.              |
-//     |                            and create a CSV file of that data.                                    |
 //      -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
 const axios = require('axios');
