@@ -3,7 +3,7 @@
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
-This script will fetch all token Holders on Tezos Mainnet with the amount of tokens they hold and create a CSV file of that data.
+This script will fetch all token Holders on Tezos Mainnet with their tokens and create a CSV file of that data.
 
 ## Authors
 
@@ -17,10 +17,10 @@ This script will fetch all token Holders on Tezos Mainnet with the amount of tok
 
 ### Steps to setup script
 
-1. Clone repositiory or Download zip file from here
-    > To clone using git `git clone`
+1. Clone the repository or Download the zip file from here
+    > To clone using git `git clone https://github.com/sanketnighot/fetch-token-holders-script-tezos.git`
 
-2. Once you open project in code editor, install dependencies
+2. Once you open the project in the code editor, install the dependencies
 
     ```bash
     yarn install
@@ -32,6 +32,6 @@ This script will fetch all token Holders on Tezos Mainnet with the amount of tok
     yarn start
     ```
 
-4. `token_holders.csv` file will be created with all data in current folder
+4. The `token_holders.csv` file will be created with all data in the current folder
 
 ---
