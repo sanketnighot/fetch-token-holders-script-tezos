@@ -3,7 +3,7 @@
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
-This script will fetch all token Holders on Tezos Mainnet with their tokens and create a CSV file of that data.
+This script will fetch all token Holders on Tezos Mainnet with their token amount and create a CSV file of that data.
 
 ## Authors
 
