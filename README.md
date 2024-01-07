@@ -9,6 +9,8 @@ This script will fetch all token Holders on Tezos Mainnet with their token amoun
 
 - [@sanketnighot](https://www.github.com/sanketnighot)
 
+<p align="left"><a href="https://twitter.com/sanket_nighot"><img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/sanket_nighot"></a></p>
+
 ## Documentation
 
 ### Prerequisite
